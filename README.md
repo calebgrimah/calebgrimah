@@ -58,13 +58,6 @@ I am a Full Stack Software Engineer <img src="https://media.giphy.com/media/WUlp
 </div>
 
 
----
-
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=calebgrimah&theme=solarized-dark&hide_border=true&border_radius=12&mode=weekly)](https://git.io/streak-stats)
-
-
-
 
 
 
